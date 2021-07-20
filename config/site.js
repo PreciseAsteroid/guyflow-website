@@ -10,12 +10,13 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
-  trackingId: "UA-119418003-5",
-  defaultLang: "en",
+  description: "Guyflow with i18n support.",
+  author: "Amir Baruch",
+  trackingId: "1234",
+  defaultLang: "he",
   langTextMap: {
     en: "English",
     ja: "日本語",
+    he: "עברית",
   },
 };
