@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "Guyflow by Guy Baruch",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -8,7 +8,8 @@ module.exports = {
     "i18n",
     "eslint",
     "bootstrap",
-    "startbootstrap-agency",
+    "guy baruch",
+    "guyflow",
   ],
   description: "Guyflow with i18n support.",
   author: "Amir Baruch",

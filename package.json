@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-startbootstrap-agency",
-  "description": "gatsby version of startbootstrap-agency with i18n support",
+  "name": "guyglow_website",
+  "description": "guyflow website built with Gatsby",
   "version": "0.1.0",
-  "author": "thundermiracle",
+  "author": "preciseasteroid",
   "bugs": {
-    "url": "https://github.com/thundermiracle/gatsby-startbootstrap-agency/issues"
+    "url": "https://github.com/PreciseAsteroid/guyflow-website/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
@@ -59,7 +59,7 @@
     "gatsby-plugin-eslint": "^3.0.0",
     "prettier": "^2.0.4"
   },
-  "homepage": "https://thundermiracle.github.io/gatsby-startbootstrap-agency",
+  "homepage": "https://www.guyflow.com/",
   "keywords": [
     "gatsby",
     "gatsbyjs",
@@ -68,7 +68,7 @@
     "i18n",
     "eslint",
     "bootstrap",
-    "startbootstrap-agency"
+    "guyflow"
   ],
   "license": "MIT",
   "main": "n/a",
